@@ -2,6 +2,8 @@
 
 ** The Virtual Engineering Assistant is a modular software suite by invenio that empowers simulation engineers to design safer, more efficient products while minimizing end-customer costs. By streamlining engineering workflows and enhancing design safety, it supports smarter, faster product development.
 
+**Author**: Tim Beinert – Founder and Maintainer of the Virtual Engineering Assistant
+
 > 🛠️ _This software is proprietary. This repository provides an overview and documentation only. No source code is included._
 
 ---
@@ -38,5 +40,6 @@ The suite is used in industries like automotive, industrial and civil engineerin
 ## 💬 Challenges Tackled
 - Accurate representation of physics, step-by-step debugging and testing to ensure functionality.
 - Efficient data structures to handle large amount of data.
-- Navigating interdisciplinary collaboration with both users and customers represented a significant challenge requiring adaptability and clear communication.
-- Embedding standardized procedures into a scripting environment to allow technical users—without programming expertise—to adapt and modify these workflows as needed.
+- Controlling and interfacing with commercial simulation and modeling software to streamline complex workflows
+- Navigating interdisciplinary collaboration with both team members and customers represented a significant challenge requiring adaptability and clear communication.
+- Embedding standardized procedures into a scripting environment to allow technical users — without programming expertise — to adapt and modify these workflows as needed.
