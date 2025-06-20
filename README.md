@@ -23,7 +23,7 @@ A technical article about this software suite was published in *Digital Engineer
 
 ## 📋 Key Features
 
-- **Modular Architecture**
+- **Modular Architecture** - New modules can easily be integrated into the main suite
 - **Scriptable Workflows** – Standardized procedures accessible to non-developers
 - **Database Integration** – External and internal databases can be connected and modified to suit workflow-specific needs
 
