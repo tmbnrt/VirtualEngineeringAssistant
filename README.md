@@ -43,3 +43,24 @@ The suite is used in industries like automotive, industrial and civil engineerin
 - Controlling and interfacing with commercial simulation and modeling software to streamline complex workflows
 - Navigating interdisciplinary collaboration with both team members and customers represented a significant challenge requiring adaptability and clear communication.
 - Embedding standardized procedures into a scripting environment to allow technical users — without programming expertise — to adapt and modify these workflows as needed.
+
+
+## 🖼️ User Interface Highlights
+
+The following screenshots illustrate key aspects of the Virtual Engineering Assistant in action:
+
+### 🧭 Main Interface
+![VEA Main Interface](media/mainpage_ui.png)  
+*The main dashboard of the Virtual Engineering Assistant with an intuitive layout for the selection of integrated modules.*
+
+---
+
+### 🎯 Integration with Commercial Visualization Tools
+![Interaction with Visualization Software](media/interaction_ui.png)  
+*Example of direct interaction with industry-standard visualization software for post-processing and interpretation.*
+
+---
+
+### 🧪 Customizable Material Database
+![Material Database UI](media/matdatabase_ui.png)  
+*Integrated and editable material database, allowing engineers to tailor material properties and data for specific use cases.*
