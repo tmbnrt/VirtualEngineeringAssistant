@@ -50,27 +50,23 @@ The suite is used in industries like automotive, industrial and civil engineerin
 The following screenshots illustrate key aspects of the Virtual Engineering Assistant in action:
 
 ### 🧭 Main Interface
-![VEA Main Interface](media/mainpage_ui.png)
-*
-The main dashboard of the Virtual Engineering Assistant with an intuitive layout for the selection of integrated modules.*
+![VEA Main Interface](media/mainpage_ui.png)  
+*The main dashboard of the Virtual Engineering Assistant with selection of integrated modules.*
 
 ---
 
 ### 🎯 Integration with Commercial Visualization Tools
-![Interaction with Visualization Software](media/interaction_ui.png)
-*
-Example of direct interaction with industry-standard visualization software for post-processing and interpretation.*
+![Interaction with Visualization Software](media/interaction_ui.png)  
+*Direct interaction with industry-standard visualization software for post-processing and interpretation.*
 
 ---
 
 ### 🧪 Customizable Material Database
-![Material Database UI](media/matdatabase_ui.png)
-*
-Integrated and editable material database, allowing engineers to tailor material properties and data for specific use cases.*
+![Material Database UI](media/matdatabase_ui.png)  
+*Integrated material database, allowing engineers to tailor material properties and data for specific use cases.*
 
 ---
 
 ### 🧪 Exemplary Geometric Calculation Feature
-![Geometric Thickness Calculation](media/thickness_estimation.png)
-*
-Visualization of a fin structure: Calculating the thickness in the surface-normal direction at each mesh point is essential for evaluating the part’s performance under specific loads.*
+![Geometric Thickness Calculation](media/thickness_estimation.png)  
+*Surface-normal thickness calculation of an exemplary fin structure for all mesh points.*
