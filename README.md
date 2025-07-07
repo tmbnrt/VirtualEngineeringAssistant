@@ -55,7 +55,7 @@ The following screenshots illustrate key aspects of the Virtual Engineering Assi
 
 ---
 
-### 🎯 Integration with Commercial Visualization Tools
+### 🎯 Interaction with Commercial Visualization Tools
 ![Interaction with Visualization Software](media/interaction_ui.png)  
 *Direct interaction with industry-standard visualization software for post-processing and interpretation.*
 
