@@ -65,8 +65,3 @@ The following screenshots illustrate key aspects of the Virtual Engineering Assi
 ![Material Database UI](media/matdatabase_ui.png)  
 *Integrated material database, allowing engineers to tailor material properties and data for specific use cases.*
 
----
-
-### 🧪 Exemplary Geometric Calculation Feature
-![Geometric Thickness Calculation](media/thickness_estimation.png)  
-*Surface-normal thickness calculation of an exemplary fin structure for all mesh points.*
